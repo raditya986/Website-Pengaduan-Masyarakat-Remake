@@ -155,7 +155,7 @@
                 </div>
                 <div class="skill-list">
                   <i class="text-3xl text-[#1572B6]"></i>
-                  <span class="skill-list-name">2. Pengaduan telah diterima dan diverifikasi</span>
+                  <span class="skill-list-name">2. Pengaduan telah diterima & diverifikasi</span>
                 </div>
                 <div class="skill-list">
                   <i class="text-3xl text-[#7952B3]"></i>
